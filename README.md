@@ -1,4 +1,5 @@
-# 🧠 Macrium Reflect with ReDeploy - Complete Migration Guide [[https://cbajoker.github.io/System-Backup/]]
+# 🧠 Macrium Reflect with ReDeploy - Complete Migration [Guide](https://cbajoker.github.io/System-Backup/)
+
 
 A comprehensive guide for system backup, restoration, and hardware migration using Macrium Reflect with ReDeploy technology.
 
